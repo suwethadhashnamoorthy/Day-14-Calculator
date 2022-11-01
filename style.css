@@ -1,3 +1,8 @@
+#description {
+    text-align: center;
+    padding: 20px;
+}
+
 *{
     margin:0;
     padding:0;
@@ -47,6 +52,6 @@ button{
     cursor:pointer;
 }
 
-.equal{
+#equal{
     width:120px;
 }
